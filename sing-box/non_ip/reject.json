@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "this_rule_set_is_made_by_sukkaw.skk.moe",
+        "stun.smartgslb.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "openx.net",
+        "telemetry-coverage.mozilla.org",
+        "telemetry.mozilla.org",
+        "incoming-telemetry.thunderbird.net",
+        "crazyegg.com",
+        "amplitude.com",
+        "advertising.com",
+        "net.mydays.de",
+        "notifysrv.com",
+        "notify6.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        ".estream.",
+        "jshosting",
+        "hostingcloud",
+        "flightsy",
+        "zymerget",
+        "gettate",
+        "mighbest",
+        "nimiqpool",
+        ".freecontent.",
+        "sunnimiq",
+        ".nimiq.",
+        "anybest.",
+        "dubester.",
+        "pancakeswap",
+        "fb-restriction-case",
+        "fb-restriction-appeal",
+        "fb-community-standards",
+        "fb-business-appeal",
+        "cp-home-pl-",
+        "track.tiara",
+        "umeng",
+        "adsby",
+        "adsdk",
+        "adserver",
+        "admaster",
+        "adserve2",
+        "admob",
+        "adserver",
+        "adspace",
+        "advertmarket",
+        "adsyndication",
+        "doubleclick.",
+        "adjust.",
+        "appsflyer",
+        "dnserror",
+        "marketing.net",
+        "adktrack",
+        "_vmind.qqvideo.tc.qq.com",
+        "-logging.nextmedia.com",
+        "-spiky.clevertap-prod.com",
+        ".engage.3m.",
+        "telemetry.officeapps.live.com",
+        "-launches.appsflyersdk.com",
+        "-s2s.sensic.net",
+        ".net.daraz.",
+        ".zooplus.",
+        "smetrics.marketing.",
+        "wxsnsdy",
+        "adwords",
+        "-tracker.biliapi.net"
+      ]
+    }
+  ]
+}

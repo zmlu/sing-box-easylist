@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "otheve.beacon.qq.com",
+        "oth.str.mdt.qq.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "get.sogou.com",
+        "shouji.sogou.com",
+        "account.sogou.com",
+        "pinyin.sogou.com",
+        "ime.sogou.com",
+        "macime.sogou.com",
+        "sginput.qq.com"
+      ]
+    },
+    {
+      "process_name": [
+        "SogouInput",
+        "SOgouTaskManager",
+        "SogouServices"
+      ]
+    }
+  ]
+}

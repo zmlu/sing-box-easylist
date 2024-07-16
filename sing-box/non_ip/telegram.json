@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "t.me",
+        "tx.me",
+        "tg.dev",
+        "tdesktop.com",
+        "telegra.ph",
+        "telega.one",
+        "telegram.me",
+        "telegram.org",
+        "telegram.dog",
+        "telegram.space",
+        "graph.org",
+        "legra.ph",
+        "telesco.pe",
+        "cdn-telegram.org"
+      ]
+    }
+  ]
+}

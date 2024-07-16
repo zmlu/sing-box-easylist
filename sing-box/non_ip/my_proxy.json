@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "vscodeexperiments.azureedge.net",
+        "ip.cn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "mikuclub.xyz",
+        "mikuclub.cn",
+        "fork.dev",
+        "nextdns.io",
+        "services.googleapis.cn",
+        "coveralls.io",
+        "influxdata.com",
+        "services.mozilla.com",
+        "wakatime.com",
+        "surge-activation.com",
+        "exp-tas.com",
+        "firefox.com",
+        "visualstudio.com",
+        "azurecontainer.io",
+        "azurewebsites.net",
+        "azure-mobile.net",
+        "cloudapp.net",
+        "elasticbeanstalk.com",
+        "compute.amazonaws.com",
+        "compute-1.amazonaws.com",
+        "edns.ip-api.com",
+        "dnsleaktest.com"
+      ]
+    }
+  ]
+}
