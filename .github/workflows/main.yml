@@ -42,7 +42,7 @@ jobs:
 
       - name: generate srs files
         run: |
-          bash ./gen_srs.sh ./sing-box
+          bash ./gen_srs.sh
 
       - name: Commit and Push changes
         env:
