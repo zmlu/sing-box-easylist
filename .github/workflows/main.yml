@@ -42,7 +42,8 @@ jobs:
 
       - name: generate srs files
         run: |
-          bash ./gen_srs.sh
+          chmod +x gen_srs.sh
+          ./gen_srs.sh
 
       - name: Commit and Push changes
         env:
