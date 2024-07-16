@@ -42,4 +42,4 @@ jobs:
           git checkout -b output
           git add . && git commit -m "sing-box rule_set 规则集文件更新于 ${update_version}"
           git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-          git push -f -u origin sing-box-ruleset
+          git push -f -u origin output
