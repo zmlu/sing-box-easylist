@@ -1,9 +1,8 @@
 name: Generate and Commit File
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 23 * * 6'
 
 jobs:
   generate-and-commit:
