@@ -41,6 +41,70 @@
       "url": "https://easylist-downloads.adblockplus.org/easylistchina.txt"
     },
     {
+      "name": "EasyList Czech and Slovak",
+      "url": "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt"
+    },
+    {
+      "name": "EasyList Dutch",
+      "url": "https://easylist-downloads.adblockplus.org/easylistdutch.txt"
+    },
+    {
+      "name": "EasyList Germany",
+      "url": "https://easylist.to/easylistgermany/easylistgermany.txt"
+    },
+    {
+      "name": "EasyList Hebrew",
+      "url": "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt"
+    },
+    {
+      "name": "EasyList Italy",
+      "url": "https://easylist-downloads.adblockplus.org/easylistitaly.txt"
+    },
+    {
+      "name": "EasyList Lithuania",
+      "url": "https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt"
+    },
+    {
+      "name": "EasyList Polish",
+      "url": "https://easylist-downloads.adblockplus.org/easylistpolish.txt"
+    },
+    {
+      "name": "EasyList Portuguese",
+      "url": "https://easylist-downloads.adblockplus.org/easylistportuguese.txt"
+    },
+    {
+      "name": "EasyList Spanish",
+      "url": "https://easylist-downloads.adblockplus.org/easylistspanish.txt"
+    },
+    {
+      "name": "IndianList",
+      "url": "https://easylist-downloads.adblockplus.org/indianlist.txt"
+    },
+    {
+      "name": "KoreanList",
+      "url": "https://easylist-downloads.adblockplus.org/koreanlist.txt"
+    },
+    {
+      "name": "Latvian List",
+      "url": "https://raw.githubusercontent.com/Latvian-List/adblock-latvian/master/lists/latvian-list.txt"
+    },
+    {
+      "name": "Liste AR",
+      "url": "https://easylist-downloads.adblockplus.org/Liste_AR.txt"
+    },
+    {
+      "name": "Liste FR",
+      "url": "https://easylist-downloads.adblockplus.org/liste_fr.txt"
+    },
+    {
+      "name": "ROList",
+      "url": "https://www.zoso.ro/pages/rolist.txt"
+    },
+    {
+      "name": "RU AdList",
+      "url": "https://easylist-downloads.adblockplus.org/advblock.txt"
+    },
+    {
       "name": "Adblock Warning Removal List",
       "url": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt"
     },

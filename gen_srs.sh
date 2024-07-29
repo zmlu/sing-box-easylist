@@ -23,7 +23,7 @@ find "$TARGET_DIR" -type f -name '*.txt' | while read -r file; do
   echo "Output file: $output_file"
 
   # 执行命令
-  sing-box-beta rule-set convert --type adguard --output "$output_file" "$file"
+  sing-box rule-set convert --type adguard --output "$output_file" "$file"
 
   # 检查命令是否成功
   if [ $? -ne 0 ]; then
