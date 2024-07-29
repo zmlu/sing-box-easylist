@@ -1,0 +1,60 @@
+{
+  "configs": [
+    {
+      "name": "EasyList",
+      "url": "https://easylist.to/easylist/easylist.txt"
+    },
+    {
+      "name": "EasyList Cookie List",
+      "url": "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt"
+    },
+    {
+      "name": "EasyPrivacy",
+      "url": "https://easylist.to/easylist/easyprivacy.txt"
+    },
+    {
+      "name": "Fanboy's Annoyance List",
+      "url": "https://secure.fanboy.co.nz/fanboy-annoyance.txt"
+    },
+    {
+      "name": "Fanboy's Social Blocking List",
+      "url": "https://easylist.to/easylist/fanboy-social.txt"
+    },
+    {
+      "name": "ABPindo",
+      "url": "https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt"
+    },
+    {
+      "name": "ABPVN List",
+      "url": "https://abpvn.com/filter/abpvn-IPl6HE.txt"
+    },
+    {
+      "name": "Bulgarian list",
+      "url": "http://stanev.org/abp/adblock_bg.txt"
+    },
+    {
+      "name": "Dandelion Sprout's Nordic Filters",
+      "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersABP-Inclusion.txt"
+    },
+    {
+      "name": "EasyList China",
+      "url": "https://easylist-downloads.adblockplus.org/easylistchina.txt"
+    },
+    {
+      "name": "Adblock Warning Removal List",
+      "url": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt"
+    },
+    {
+      "name": "EasyList without element hiding",
+      "url": "https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt"
+    },
+    {
+      "name": "EasyList without rules for adult sites",
+      "url": "https://easylist-downloads.adblockplus.org/easylist_noadult.txt"
+    },
+    {
+      "name": "EasyPrivacy without rules for international domains",
+      "url": "https://easylist-downloads.adblockplus.org/easyprivacy_nointernational.txt"
+    }
+  ]
+}
