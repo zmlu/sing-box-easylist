@@ -119,6 +119,10 @@
     {
       "name": "EasyPrivacy without rules for international domains",
       "url": "https://easylist-downloads.adblockplus.org/easyprivacy_nointernational.txt"
+    },
+    {
+      "name": "AdGuard DNS Filter",
+      "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
     }
   ]
 }
