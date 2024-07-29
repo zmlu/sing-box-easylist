@@ -10,7 +10,7 @@ if [ ! -d "$TARGET_DIR" ]; then
 fi
 
 # 使用 find 命令递归查找所有JSON文件
-find "$TARGET_DIR" -type f -name '*.json' | while read -r file; do
+find "$TARGET_DIR" -type f -name '*.txt' | while read -r file; do
   # 获取文件名（不带路径）和文件路径（不带扩展名）
   filename=$(basename "$file")
   filepath="${file%.*}"
@@ -23,7 +23,7 @@ find "$TARGET_DIR" -type f -name '*.json' | while read -r file; do
   echo "Output file: $output_file"
 
   # 执行命令
-  sing-box rule-set convert --type adguard --output "$output_file" "$file"
+  sing-box-beta rule-set convert --type adguard --output "$output_file" "$file"
 
   # 检查命令是否成功
   if [ $? -ne 0 ]; then
