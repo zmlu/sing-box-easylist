@@ -6,6 +6,10 @@
 
 [AGPL-3.0](./LICENSE)
 
+## AdGuard DNS Filter rule-set
+
+output 分支
+
 ## License
 
 Files are licensed under [AGPL-3.0](./LICENSE).
