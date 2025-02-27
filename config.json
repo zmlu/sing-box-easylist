@@ -1,8 +1,20 @@
 {
   "configs": [
     {
+      "name":"AWAvenue-Ads-Rule.txt",
+      "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
+    },
+    {
+      "name": "BlueSkyXN AdGuardHomeRules",
+      "url": "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt"
+    },
+    {
       "name": "EasyList",
       "url": "https://easylist.to/easylist/easylist.txt"
+    },
+    {
+      "name": "anti-ad-easylist",
+      "url": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt"
     },
     {
       "name": "EasyList Cookie List",
@@ -123,6 +135,15 @@
     {
       "name": "AdGuard DNS Filter",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
+    },
+    {
+      "name": "AdGuard Chinese filter",
+      "file_name": "adGuard_chinese_filter.txt",
+      "url": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt"
+    },
+    {
+      "name": "AdGuard Mobile Ads filter",
+      "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt"
     }
   ]
 }
