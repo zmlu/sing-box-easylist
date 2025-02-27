@@ -31,7 +31,7 @@ if __name__ == '__main__':
         name = config.get('name')
         file_name = config.get('file_name')
         url = config.get('url')
-        if file_name is null:
+        if file_name is None:
             file_name = url.split('/')[-1]
         print(f'Name: {name}, file_name: {file_name}, url: {url}')
         download_txt_file(url, file_name)
